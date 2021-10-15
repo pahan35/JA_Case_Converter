@@ -1,0 +1,15 @@
+textarea {
+  display: block;
+  width: 510px;
+  height: 260px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-family: sans-serif;
+  font-size: 26px;
+}
+
+button {
+  background-color: #FF9667;
+}
